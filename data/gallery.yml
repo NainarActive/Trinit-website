@@ -1,8 +1,35 @@
+# enable  : true
+# galleryImages :
+#   - image : images/portfolio/item-1.jpg
+#   - image : images/portfolio/item-2.jpg
+#   - image : images/portfolio/item-3.jpg
+#   - image : images/portfolio/item-4.jpg
+#   - image : images/portfolio/item-5.jpg
+#   - image : images/portfolio/item-6.jpg
+
 enable  : true
-galleryImages :
-  - image : images/portfolio/item-1.jpg
-  - image : images/portfolio/item-2.jpg
-  - image : images/portfolio/item-3.jpg
-  - image : images/portfolio/item-4.jpg
-  - image : images/portfolio/item-5.jpg
-  - image : images/portfolio/item-6.jpg
+title   : Pricing
+description: >
+  Transparent and flexible pricing which scales as you grow
+
+  <br><br>
+
+  Billed monthly Billed annually (saving 10%)
+aboutItem:
+  - title : Basic
+    header : $250
+    content : per month
+    description : Upto 1 million API requests per month
+    btnText : "30 Days Free Trial"
+
+  - title : Basic
+    header : $250
+    content : per month
+    description : Upto 1 million API requests per month
+    btnText : "30 Days Free Trial"
+
+  - title : Basic
+    header : $250
+    content : per month
+    description : Upto 1 million API requests per month
+    btnText : "30 Days Free Trial"
